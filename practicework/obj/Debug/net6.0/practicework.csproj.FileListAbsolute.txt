@@ -1,0 +1,15 @@
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\bin\Debug\net6.0\practicework.exe
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\bin\Debug\net6.0\practicework.deps.json
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\bin\Debug\net6.0\practicework.runtimeconfig.json
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\bin\Debug\net6.0\practicework.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\bin\Debug\net6.0\practicework.pdb
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.csproj.AssemblyReference.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.AssemblyInfoInputs.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.AssemblyInfo.cs
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.csproj.CoreCompileInputs.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\refint\practicework.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.pdb
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\practicework.genruntimeconfig.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\practicework\practicework\obj\Debug\net6.0\ref\practicework.dll
